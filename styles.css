@@ -359,6 +359,11 @@ section {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.alternative-contact {
+  margin: 24px auto 0;
+  text-align: center;
+}
+
 .form-group {
   margin-bottom: 24px;
   display: flex;
